@@ -5,12 +5,12 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Auto Filter Bot....😉
+<i>Am simple and automated bot made for filtering....😉
 
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
+You can't use this bot without the creator in the group as admin.
 
 For More Details Click Help Button Below..
-@CrazyBotsz
+@amithleo10
 </i>"""    
     
     HELP_TEXT = """
